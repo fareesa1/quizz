@@ -1,6 +1,15 @@
-# quiz
+# Quiz
 
 A new Flutter project.
+The project contains 3 main pages landing page ,quiz page and a Score page.
+Landing page : As a starter which routes to the quiz page on tap
+Quiz page: A Statement at the center of the page with a true and false options at the either side of it.
+on tap displays a "correct_wrong_overlay" in a cicrle with either correct or wrong Icon.
+Score page: the total statements answered rightly with the total question is displayed.
+
+The project contains around 15 java statements which are commanly asked at java technical interview round.
+
+The app isnt published as the main aim was to learn the concepts and play a little bit with Flutter .
 
 ## Getting Started
 
